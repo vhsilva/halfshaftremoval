@@ -1,6 +1,8 @@
 # halfshaftremoval
 Half Shaft Removal Tool
 
+February 2016 - Project @ Tesla
+
 In Drive Unit remanufacturing, we'd often get back units that have one of the half shafts stuck in the drive unit. Without a proper tool, 
 it would take technicians at least 20 min to pry it out. The line supervisors requested a tool that would allow the technicians to push
 the stuck half shaft out from the other side. 
